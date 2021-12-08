@@ -42,7 +42,7 @@ if (mysqli_num_rows($query) < 1) {
                 <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
                     <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
                         <li><a href="./index.php" class="nav-link px-2 text-white">Home</a></li>
-                        <li><a href="./form-daftar.php" class="nav-link px-2 text-secondary">Daftar</a></li>
+                        <li><a href="./form-daftar.php" class="nav-link px-2 text-white">Daftar</a></li>
                         <li><a href="./list-siswa.php" class="nav-link px-2 text-white">List Pendaftar</a></li>
                     </ul>
                 </div>
